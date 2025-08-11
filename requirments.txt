@@ -1,1 +1,4 @@
-pip freeze > requirements.txt
+python-telegram-bot==20.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+urllib3==2.0.7
